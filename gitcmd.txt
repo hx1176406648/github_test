@@ -1,3 +1,5 @@
 git status
 git diff
 git reflog
+git log
+git reset --hard commitid
