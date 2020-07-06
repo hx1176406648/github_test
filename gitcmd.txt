@@ -3,3 +3,4 @@ git diff
 git reflog
 git log
 git reset --hard commitid
+git push --set-upstream origin test/develop
